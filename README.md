@@ -1,6 +1,6 @@
 <h1>Simple Todo List</h1>
 
-Todo List where you can add new tasks, complete tasks, save and load persisting tasks.
+Todo List where you can add new tasks, complete tasks, save and load persisting tasks and checkbox state.
 <br />
 
 <h2>How to Use</h2>
