@@ -4,7 +4,7 @@ Todo List where you can add new tasks, complete tasks, save and load persisting 
 <br />
 
 <h2>How to Use</h2>
-Clone repository and run the program. Add new task fields by using the "New Task" button. Fill out the text field and press the "add" button to add the task to your todo list. Check the checkbox next to the task to mark the task as completed. Remove tasks by pressing the "X" button next to the task. Edit tasks by pressing the "Edit" button next to the task. Save tasks by pressing the "Save" button in the menu.
+Clone repository and run the program. Add new task fields by using the "New Task" button. Fill out the text field and press the "add" button to add the task to your todo list. Check the checkbox next to the task to mark the task as completed. Remove tasks by pressing the "X" button next to the task. Edit tasks by pressing the "Edit" button next to the task. Save tasks by pressing the "Save" button in the menu. (Tasks will automatically load in after saving and restarting the program)
 <br />
 
 
